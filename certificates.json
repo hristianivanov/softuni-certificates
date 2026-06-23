@@ -1,0 +1,184 @@
+[
+  {
+    "id": "asp-net-advanced-june-2023",
+    "title": "ASP.NET Advanced",
+    "issuer": "SoftUni",
+    "date": "June 2023",
+    "category": ".NET",
+    "skills": [
+      "ASP.NET Core",
+      "MVC",
+      "Web Development"
+    ],
+    "imageUrl": "certificates/asp-net-advanced-june-2023.jpeg",
+    "priority": 1
+  },
+  {
+    "id": "asp-net-fundamentals-may-2023",
+    "title": "ASP.NET Fundamentals",
+    "issuer": "SoftUni",
+    "date": "May 2023",
+    "category": ".NET",
+    "skills": [
+      "ASP.NET Core",
+      "MVC",
+      "Web Development"
+    ],
+    "imageUrl": "certificates/asp-net-fundamentals-may-2023.jpeg",
+    "priority": 2
+  },
+  {
+    "id": "entity-framework-core-february-2023",
+    "title": "Entity Framework Core",
+    "issuer": "SoftUni",
+    "date": "February 2023",
+    "category": "Databases",
+    "skills": [
+      "Entity Framework Core",
+      "ORM",
+      "Database Access"
+    ],
+    "imageUrl": "certificates/entity-framework-core-february-2023.jpeg",
+    "priority": 3
+  },
+  {
+    "id": "ms-sql-january-2023",
+    "title": "MS SQL",
+    "issuer": "SoftUni",
+    "date": "January 2023",
+    "category": "Databases",
+    "skills": [
+      "MS SQL Server",
+      "Relational Databases",
+      "SQL"
+    ],
+    "imageUrl": "certificates/ms-sql-january-2023.jpeg",
+    "priority": 4
+  },
+  {
+    "id": "software-engineering-and-devops-february-2024",
+    "title": "Software Engineering and DevOps",
+    "issuer": "SoftUni",
+    "date": "February 2024",
+    "category": "DevOps",
+    "skills": [
+      "Software Engineering",
+      "DevOps",
+      "CI/CD"
+    ],
+    "imageUrl": "certificates/software-engineering-and-devops-february-2024.jpeg",
+    "priority": 5
+  },
+  {
+    "id": "containers-and-cloud-january-2024",
+    "title": "Containers and Cloud",
+    "issuer": "SoftUni",
+    "date": "January 2024",
+    "category": "DevOps",
+    "skills": [
+      "Containers",
+      "Cloud",
+      "Deployment"
+    ],
+    "imageUrl": "certificates/containers-and-cloud-january-2024.jpeg",
+    "priority": 6
+  },
+  {
+    "id": "csharp-oop-october-2022",
+    "title": "C# OOP",
+    "issuer": "SoftUni",
+    "date": "October 2022",
+    "category": "C#",
+    "skills": [
+      "C#",
+      "Object-Oriented Programming",
+      "SOLID"
+    ],
+    "imageUrl": "certificates/csharp-oop-october-2022.jpeg",
+    "priority": 7
+  },
+  {
+    "id": "csharp-advanced-september-2022",
+    "title": "C# Advanced",
+    "issuer": "SoftUni",
+    "date": "September 2022",
+    "category": "C#",
+    "skills": [
+      "C#",
+      "Collections",
+      "Advanced Programming"
+    ],
+    "imageUrl": "certificates/csharp-advanced-september-2022.jpeg",
+    "priority": 8
+  },
+  {
+    "id": "programming-fundamentals-with-csharp-may-2022",
+    "title": "Programming Fundamentals with C#",
+    "issuer": "SoftUni",
+    "date": "May 2022",
+    "category": "C#",
+    "skills": [
+      "C#",
+      "Programming Fundamentals",
+      "Problem Solving"
+    ],
+    "imageUrl": "certificates/programming-fundamentals-with-csharp-may-2022.jpeg",
+    "priority": 9
+  },
+  {
+    "id": "js-front-end-october-2023",
+    "title": "JS Front-End",
+    "issuer": "SoftUni",
+    "date": "October 2023",
+    "category": "JavaScript",
+    "skills": [
+      "JavaScript",
+      "Front-End Development",
+      "DOM"
+    ],
+    "imageUrl": "certificates/js-front-end-october-2023.jpeg",
+    "priority": 10
+  },
+  {
+    "id": "html-and-css-september-2023",
+    "title": "HTML & CSS",
+    "issuer": "SoftUni",
+    "date": "September 2023",
+    "category": "Web",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    "imageUrl": "certificates/html-and-css-september-2023.jpeg",
+    "priority": 11
+  },
+  {
+    "id": "programming-basics-november-2021",
+    "title": "Programming Basics",
+    "issuer": "SoftUni",
+    "date": "November 2021",
+    "category": "C#",
+    "skills": [
+      "Programming Basics",
+      "C#",
+      "Problem Solving"
+    ],
+    "imageUrl": "certificates/programming-basics-november-2021.jpeg",
+    "priority": 12
+  },
+  {
+    "id": "csharp-web-developer-diploma",
+    "title": "C# Web Developer Diploma",
+    "issuer": "SoftUni",
+    "date": "2024",
+    "category": "Diploma",
+    "skills": [
+      "C#",
+      "ASP.NET Core",
+      "Web Development"
+    ],
+    "imageUrl": "diplomas/csharp-web-developer-diploma.jpeg",
+    "priority": 13
+  }
+]
