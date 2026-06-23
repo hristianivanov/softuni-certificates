@@ -1,10 +1,10 @@
-
 [![softuni logo](https://user-images.githubusercontent.com/77247385/104171277-10503f00-540b-11eb-9271-33acc6a84a4d.png)](https://softuni.bg/trainings/courses)
 
 <h1 align="center">SoftUni Certificates</h1>
+
 <p align="center">
 A collection of my SoftUni certificates and diploma from my software development learning path.
- </p>
+</p>
 
 ## Purpose
 
